@@ -1,21 +1,21 @@
-# Curso de React 
+#React Course
 
-## Contenido del Repositorio
+## Repository Contents
 
-Este repositorio contiene una serie de materiales y ejercicios que te ayudarán a aprender y dominar React y JavaScript. A continuación se detalla el contenido disponible:
+This repository contains a series of materials and exercises that will help you learn and master React and JavaScript. The available content is detailed below:
 
-### 1. Introducción a React
+### 1. Introduction to React
 
-- **Conceptos Básicos:** Aprende qué es React, sus características principales y cómo se diferencia de otros frameworks y librerías.
-- **Componentes y Props:** Entiende cómo funcionan los componentes y cómo se utilizan las propiedades (props) para gestionar la información.
-- **Estado y Ciclo de Vida:** Descubre cómo manejar el estado de los componentes y los métodos del ciclo de vida para controlar su comportamiento.
+- **Basic Concepts:** Learn what React is, its main features, and how it differs from other frameworks and libraries.
+- **Components and Props:** Understand how components work and how properties (props) are used to manage information.
+- **State and Lifecycle:** Find out how to handle component state and lifecycle methods to control their behavior.
 
-### 2. Introducción a JavaScript
+### 2. Introduction to JavaScript
 
-- **Fundamentos de JavaScript:** Revisión de los conceptos básicos de JavaScript necesarios para trabajar con React, incluyendo variables, tipos de datos, operadores, y estructuras de control.
-- **Funciones y Objetos:** Aprende sobre la declaración de funciones, el uso de objetos y cómo manipular datos en JavaScript.
+- **JavaScript Fundamentals:** Review of the basic JavaScript concepts needed to work with React, including variables, data types, operators, and control structures.
+- **Functions and Objects:** Learn about declaring functions, using objects, and how to manipulate data in JavaScript.
 
-### 3. Ejercicios Prácticos
+### 3. Hands-on exercises
 
-- **Ejercicios de React:** Práctica con ejercicios diseñados para reforzar el conocimiento sobre componentes, estado, props, y más.
-- **Ejercicios de JavaScript:** Completa ejercicios que te ayudarán a consolidar tu comprensión de los fundamentos de JavaScript y cómo se integran con React.
+- **React exercises:** Practice with exercises designed to reinforce knowledge about components, state, props, and more.
+- **JavaScript exercises:** Comprehensive exercises that will help you solidify your understanding of JavaScript fundamentals and how they integrate with React.
